@@ -44,6 +44,7 @@ console.log(misAmigos[4]);
 //Declarando array de números
 var misNumeros = [5,8,7,6,99,25,12];
 
+
 //Imprimiendo array de números
 console.log(misNumeros);
 
