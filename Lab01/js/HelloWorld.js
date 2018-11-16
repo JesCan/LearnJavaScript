@@ -28,6 +28,8 @@ console.error('Ups... tenemos problemas para ejecutar este script');
 //Imprimir un mensaje de prevención
 console.warn('Cuidado con lo que estás haciendo');
 
+console.info('Mensaje');
+
 //Definiendo el cierre del reloj
 console.timeEnd('Timer1')
 
